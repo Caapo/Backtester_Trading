@@ -1,0 +1,2594 @@
+------- Report of simulation on : EUR/USD ---------
+
+Strategy used : Bollinger
+Numbers of Winning trades : 121
+Numbers of Losing trades : 201
+Win Rate : 37.5776%
+PnlRealized : 410
+
+
+---------- Portfolio ---------------
+
+Portfolio Informations
+Capital: 1410 | Margin(Avalaible): 1410 | Margin(Used): 0
+Risk Pourcentage: 1 | RRR: 2 | Risk Amount: 10
+
+
+
+---------- Historique des positions ---------------
+
+Position Informations
+ID: 0 | Asset: EUR/USD | OpenDate: 2010/01/04 | CloseDate: 2010/01/07
+EntryPrice: 1.44244 | ExitPrice: 1.43286 | Quantity: 2087.04
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.44723 | TP: 1.43286
+
+
+
+Position Informations
+ID: 1 | Asset: EUR/USD | OpenDate: 2010/01/10 | CloseDate: 2010/01/13
+EntryPrice: 1.44631 | ExitPrice: 1.45124 | Quantity: 2029.62
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.45124 | TP: 1.43646
+
+
+
+Position Informations
+ID: 2 | Asset: EUR/USD | OpenDate: 2010/01/20 | CloseDate: 2010/01/28
+EntryPrice: 1.41119 | ExitPrice: 1.39907 | Quantity: 824.829
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.39907 | TP: 1.43544
+
+
+
+Position Informations
+ID: 3 | Asset: EUR/USD | OpenDate: 2010/02/04 | CloseDate: 2010/02/18
+EntryPrice: 1.37395 | ExitPrice: 1.35732 | Quantity: 601.292
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.35732 | TP: 1.40721
+
+
+
+Position Informations
+ID: 4 | Asset: EUR/USD | OpenDate: 2010/03/12 | CloseDate: 2010/03/18
+EntryPrice: 1.37653 | ExitPrice: 1.3625 | Quantity: 1425.49
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.38355 | TP: 1.3625
+
+
+
+Position Informations
+ID: 5 | Asset: EUR/USD | OpenDate: 2010/03/24 | CloseDate: 2010/04/11
+EntryPrice: 1.3327 | ExitPrice: 1.36163 | Quantity: 691.227
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31823 | TP: 1.36163
+
+
+
+Position Informations
+ID: 6 | Asset: EUR/USD | OpenDate: 2010/04/11 | CloseDate: 2010/04/20
+EntryPrice: 1.36535 | ExitPrice: 1.34374 | Quantity: 925.339
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.37616 | TP: 1.34374
+
+
+
+Position Informations
+ID: 7 | Asset: EUR/USD | OpenDate: 2010/04/22 | CloseDate: 2010/05/04
+EntryPrice: 1.32217 | ExitPrice: 1.30767 | Quantity: 689.547
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.30767 | TP: 1.35117
+
+
+
+Position Informations
+ID: 8 | Asset: EUR/USD | OpenDate: 2010/04/27 | CloseDate: 2010/05/04
+EntryPrice: 1.31765 | ExitPrice: 1.30091 | Quantity: 597.542
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.30091 | TP: 1.35112
+
+
+
+Position Informations
+ID: 9 | Asset: EUR/USD | OpenDate: 2010/05/04 | CloseDate: 2010/05/05
+EntryPrice: 1.29769 | ExitPrice: 1.28203 | Quantity: 638.367
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.28203 | TP: 1.32902
+
+
+
+Position Informations
+ID: 10 | Asset: EUR/USD | OpenDate: 2010/06/04 | CloseDate: 2010/06/17
+EntryPrice: 1.19637 | ExitPrice: 1.23226 | Quantity: 557.265
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17843 | TP: 1.23226
+
+
+
+Position Informations
+ID: 11 | Asset: EUR/USD | OpenDate: 2010/07/01 | CloseDate: 2010/07/06
+EntryPrice: 1.25089 | ExitPrice: 1.2602 | Quantity: 1073.87
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.2602 | TP: 1.23227
+
+
+
+Position Informations
+ID: 12 | Asset: EUR/USD | OpenDate: 2010/08/02 | CloseDate: 2010/08/11
+EntryPrice: 1.31722 | ExitPrice: 1.2946 | Quantity: 884.179
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.32853 | TP: 1.2946
+
+
+
+Position Informations
+ID: 13 | Asset: EUR/USD | OpenDate: 2010/08/11 | CloseDate: 2010/08/22
+EntryPrice: 1.28457 | ExitPrice: 1.2702 | Quantity: 696.063
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.2702 | TP: 1.3133
+
+
+
+Position Informations
+ID: 15 | Asset: EUR/USD | OpenDate: 2010/09/03 | CloseDate: 2010/09/07
+EntryPrice: 1.28945 | ExitPrice: 1.27172 | Quantity: 1128.1
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.29831 | TP: 1.27172
+
+
+
+Position Informations
+ID: 14 | Asset: EUR/USD | OpenDate: 2010/08/13 | CloseDate: 2010/09/21
+EntryPrice: 1.27495 | ExitPrice: 1.31294 | Quantity: 526.509
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.25596 | TP: 1.31294
+
+
+
+Position Informations
+ID: 16 | Asset: EUR/USD | OpenDate: 2010/09/14 | CloseDate: 2010/09/21
+EntryPrice: 1.29945 | ExitPrice: 1.31095 | Quantity: 869.295
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31095 | TP: 1.27644
+
+
+
+Position Informations
+ID: 17 | Asset: EUR/USD | OpenDate: 2010/09/21 | CloseDate: 2010/09/28
+EntryPrice: 1.32819 | ExitPrice: 1.34927 | Quantity: 474.467
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34927 | TP: 1.28604
+
+
+
+Position Informations
+ID: 18 | Asset: EUR/USD | OpenDate: 2010/11/03 | CloseDate: 2010/11/08
+EntryPrice: 1.41252 | ExitPrice: 1.38967 | Quantity: 875.112
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.42395 | TP: 1.38967
+
+
+
+Position Informations
+ID: 19 | Asset: EUR/USD | OpenDate: 2010/11/11 | CloseDate: 2010/11/23
+EntryPrice: 1.36191 | ExitPrice: 1.34366 | Quantity: 547.865
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34366 | TP: 1.39842
+
+
+
+Position Informations
+ID: 20 | Asset: EUR/USD | OpenDate: 2010/11/26 | CloseDate: 2010/11/30
+EntryPrice: 1.32395 | ExitPrice: 1.30521 | Quantity: 533.701
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.30521 | TP: 1.36142
+
+
+
+Position Informations
+ID: 22 | Asset: EUR/USD | OpenDate: 2010/12/31 | CloseDate: 2011/01/05
+EntryPrice: 1.33852 | ExitPrice: 1.31827 | Quantity: 987.869
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34864 | TP: 1.31827
+
+
+
+Position Informations
+ID: 21 | Asset: EUR/USD | OpenDate: 2010/11/29 | CloseDate: 2011/01/21
+EntryPrice: 1.30998 | ExitPrice: 1.35617 | Quantity: 432.965
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.28688 | TP: 1.35617
+
+
+
+Position Informations
+ID: 23 | Asset: EUR/USD | OpenDate: 2011/03/03 | CloseDate: 2011/03/18
+EntryPrice: 1.39556 | ExitPrice: 1.40892 | Quantity: 748.771
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.40892 | TP: 1.36885
+
+
+
+Position Informations
+ID: 24 | Asset: EUR/USD | OpenDate: 2011/03/18 | CloseDate: 2011/04/06
+EntryPrice: 1.41788 | ExitPrice: 1.428 | Quantity: 988.354
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.428 | TP: 1.39764
+
+
+
+Position Informations
+ID: 25 | Asset: EUR/USD | OpenDate: 2011/04/06 | CloseDate: 2011/04/08
+EntryPrice: 1.43239 | ExitPrice: 1.44127 | Quantity: 1125.77
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.44127 | TP: 1.41462
+
+
+
+Position Informations
+ID: 26 | Asset: EUR/USD | OpenDate: 2011/04/08 | CloseDate: 2011/04/26
+EntryPrice: 1.44801 | ExitPrice: 1.46136 | Quantity: 748.825
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.46136 | TP: 1.4213
+
+
+
+Position Informations
+ID: 27 | Asset: EUR/USD | OpenDate: 2011/04/26 | CloseDate: 2011/04/28
+EntryPrice: 1.47041 | ExitPrice: 1.48309 | Quantity: 788.548
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.48309 | TP: 1.44505
+
+
+
+Position Informations
+ID: 28 | Asset: EUR/USD | OpenDate: 2011/05/06 | CloseDate: 2011/05/13
+EntryPrice: 1.43146 | ExitPrice: 1.41292 | Quantity: 539.379
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.41292 | TP: 1.46854
+
+
+
+Position Informations
+ID: 29 | Asset: EUR/USD | OpenDate: 2011/06/03 | CloseDate: 2011/06/15
+EntryPrice: 1.46348 | ExitPrice: 1.42383 | Quantity: 504.408
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.48331 | TP: 1.42383
+
+
+
+Position Informations
+ID: 30 | Asset: EUR/USD | OpenDate: 2011/07/11 | CloseDate: 2011/07/21
+EntryPrice: 1.4038 | ExitPrice: 1.43985 | Quantity: 554.82
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.38578 | TP: 1.43985
+
+
+
+Position Informations
+ID: 31 | Asset: EUR/USD | OpenDate: 2011/08/04 | CloseDate: 2011/08/09
+EntryPrice: 1.40749 | ExitPrice: 1.43271 | Quantity: 793.1
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.39488 | TP: 1.43271
+
+
+
+Position Informations
+ID: 32 | Asset: EUR/USD | OpenDate: 2011/09/01 | CloseDate: 2011/09/04
+EntryPrice: 1.42682 | ExitPrice: 1.41883 | Quantity: 1252.33
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.41883 | TP: 1.44279
+
+
+
+Position Informations
+ID: 33 | Asset: EUR/USD | OpenDate: 2011/09/08 | CloseDate: 2011/09/09
+EntryPrice: 1.38891 | ExitPrice: 1.36567 | Quantity: 430.265
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.36567 | TP: 1.43539
+
+
+
+Position Informations
+ID: 34 | Asset: EUR/USD | OpenDate: 2011/10/03 | CloseDate: 2011/10/10
+EntryPrice: 1.31899 | ExitPrice: 1.35366 | Quantity: 576.822
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.30165 | TP: 1.35366
+
+
+
+Position Informations
+ID: 35 | Asset: EUR/USD | OpenDate: 2011/10/12 | CloseDate: 2011/10/27
+EntryPrice: 1.37773 | ExitPrice: 1.39554 | Quantity: 561.35
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.39554 | TP: 1.3421
+
+
+
+Position Informations
+ID: 36 | Asset: EUR/USD | OpenDate: 2011/10/27 | CloseDate: 2011/10/31
+EntryPrice: 1.41981 | ExitPrice: 1.39018 | Quantity: 674.986
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.43463 | TP: 1.39018
+
+
+
+Position Informations
+ID: 37 | Asset: EUR/USD | OpenDate: 2011/11/16 | CloseDate: 2011/11/25
+EntryPrice: 1.34396 | ExitPrice: 1.32889 | Quantity: 663.71
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.32889 | TP: 1.37409
+
+
+
+Position Informations
+ID: 38 | Asset: EUR/USD | OpenDate: 2011/12/12 | CloseDate: 2011/12/13
+EntryPrice: 1.31637 | ExitPrice: 1.3072 | Quantity: 1090.4
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.3072 | TP: 1.33471
+
+
+
+Position Informations
+ID: 39 | Asset: EUR/USD | OpenDate: 2011/12/28 | CloseDate: 2012/01/03
+EntryPrice: 1.29243 | ExitPrice: 1.30431 | Quantity: 1682.86
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.28649 | TP: 1.30431
+
+
+
+Position Informations
+ID: 40 | Asset: EUR/USD | OpenDate: 2012/01/05 | CloseDate: 2012/01/08
+EntryPrice: 1.27915 | ExitPrice: 1.26989 | Quantity: 1079.51
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.26989 | TP: 1.29768
+
+
+
+Position Informations
+ID: 41 | Asset: EUR/USD | OpenDate: 2012/01/23 | CloseDate: 2012/01/27
+EntryPrice: 1.3024 | ExitPrice: 1.31605 | Quantity: 732.848
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31605 | TP: 1.27511
+
+
+
+Position Informations
+ID: 42 | Asset: EUR/USD | OpenDate: 2012/02/23 | CloseDate: 2012/02/26
+EntryPrice: 1.33739 | ExitPrice: 1.34636 | Quantity: 1114.61
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34636 | TP: 1.31945
+
+
+
+Position Informations
+ID: 43 | Asset: EUR/USD | OpenDate: 2012/03/26 | CloseDate: 2012/04/04
+EntryPrice: 1.33566 | ExitPrice: 1.31507 | Quantity: 971.365
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34595 | TP: 1.31507
+
+
+
+Position Informations
+ID: 44 | Asset: EUR/USD | OpenDate: 2012/04/04 | CloseDate: 2012/04/05
+EntryPrice: 1.31435 | ExitPrice: 1.3068 | Quantity: 1324.58
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.3068 | TP: 1.32945
+
+
+
+Position Informations
+ID: 45 | Asset: EUR/USD | OpenDate: 2012/04/20 | CloseDate: 2012/05/04
+EntryPrice: 1.32159 | ExitPrice: 1.3108 | Quantity: 1853.88
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.32698 | TP: 1.3108
+
+
+
+Position Informations
+ID: 46 | Asset: EUR/USD | OpenDate: 2012/05/04 | CloseDate: 2012/05/06
+EntryPrice: 1.30824 | ExitPrice: 1.30224 | Quantity: 1666.13
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.30224 | TP: 1.32024
+
+
+
+Position Informations
+ID: 47 | Asset: EUR/USD | OpenDate: 2012/07/06 | CloseDate: 2012/07/20
+EntryPrice: 1.2285 | ExitPrice: 1.21614 | Quantity: 808.848
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.21614 | TP: 1.25323
+
+
+
+Position Informations
+ID: 48 | Asset: EUR/USD | OpenDate: 2012/07/22 | CloseDate: 2012/07/26
+EntryPrice: 1.21271 | ExitPrice: 1.22753 | Quantity: 1349.91
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.2053 | TP: 1.22753
+
+
+
+Position Informations
+ID: 49 | Asset: EUR/USD | OpenDate: 2012/07/24 | CloseDate: 2012/07/26
+EntryPrice: 1.20612 | ExitPrice: 1.22334 | Quantity: 1161.42
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19751 | TP: 1.22334
+
+
+
+Position Informations
+ID: 50 | Asset: EUR/USD | OpenDate: 2012/08/21 | CloseDate: 2012/08/23
+EntryPrice: 1.24761 | ExitPrice: 1.25407 | Quantity: 1548.87
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.25407 | TP: 1.2347
+
+
+
+Position Informations
+ID: 51 | Asset: EUR/USD | OpenDate: 2012/09/06 | CloseDate: 2012/09/07
+EntryPrice: 1.26305 | ExitPrice: 1.26802 | Quantity: 2011.65
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.26802 | TP: 1.25311
+
+
+
+Position Informations
+ID: 53 | Asset: EUR/USD | OpenDate: 2012/10/16 | CloseDate: 2012/10/28
+EntryPrice: 1.31056 | ExitPrice: 1.29263 | Quantity: 1115.73
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31952 | TP: 1.29263
+
+
+
+Position Informations
+ID: 54 | Asset: EUR/USD | OpenDate: 2012/11/02 | CloseDate: 2012/11/08
+EntryPrice: 1.28349 | ExitPrice: 1.2752 | Quantity: 1206.71
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.2752 | TP: 1.30006
+
+
+
+Position Informations
+ID: 55 | Asset: EUR/USD | OpenDate: 2012/11/21 | CloseDate: 2012/11/23
+EntryPrice: 1.28638 | ExitPrice: 1.29163 | Quantity: 1903.13
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.29163 | TP: 1.27587
+
+
+
+Position Informations
+ID: 52 | Asset: EUR/USD | OpenDate: 2012/09/13 | CloseDate: 2012/12/18
+EntryPrice: 1.29926 | ExitPrice: 1.31732 | Quantity: 553.706
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31732 | TP: 1.26314
+
+
+
+Position Informations
+ID: 56 | Asset: EUR/USD | OpenDate: 2012/12/14 | CloseDate: 2013/01/10
+EntryPrice: 1.31626 | ExitPrice: 1.32485 | Quantity: 1164.14
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.32485 | TP: 1.29908
+
+
+
+Position Informations
+ID: 57 | Asset: EUR/USD | OpenDate: 2013/01/03 | CloseDate: 2013/01/10
+EntryPrice: 1.30243 | ExitPrice: 1.31457 | Quantity: 1646.83
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.29636 | TP: 1.31457
+
+
+
+Position Informations
+ID: 58 | Asset: EUR/USD | OpenDate: 2013/01/27 | CloseDate: 2013/01/30
+EntryPrice: 1.34647 | ExitPrice: 1.35307 | Quantity: 1516.23
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.35307 | TP: 1.33328
+
+
+
+Position Informations
+ID: 59 | Asset: EUR/USD | OpenDate: 2013/01/30 | CloseDate: 2013/02/08
+EntryPrice: 1.35682 | ExitPrice: 1.33705 | Quantity: 1011.4
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.36671 | TP: 1.33705
+
+
+
+Position Informations
+ID: 60 | Asset: EUR/USD | OpenDate: 2013/02/21 | CloseDate: 2013/02/25
+EntryPrice: 1.3192 | ExitPrice: 1.30838 | Quantity: 924.178
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.30838 | TP: 1.34084
+
+
+
+Position Informations
+ID: 61 | Asset: EUR/USD | OpenDate: 2013/02/25 | CloseDate: 2013/03/17
+EntryPrice: 1.30659 | ExitPrice: 1.29383 | Quantity: 783.589
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.29383 | TP: 1.33211
+
+
+
+Position Informations
+ID: 62 | Asset: EUR/USD | OpenDate: 2013/03/17 | CloseDate: 2013/03/24
+EntryPrice: 1.28907 | ExitPrice: 1.30098 | Quantity: 1679.63
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.28312 | TP: 1.30098
+
+
+
+Position Informations
+ID: 63 | Asset: EUR/USD | OpenDate: 2013/03/19 | CloseDate: 2013/03/24
+EntryPrice: 1.28638 | ExitPrice: 1.30142 | Quantity: 1329.87
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.27886 | TP: 1.30142
+
+
+
+Position Informations
+ID: 64 | Asset: EUR/USD | OpenDate: 2013/03/27 | CloseDate: 2013/04/05
+EntryPrice: 1.27742 | ExitPrice: 1.2969 | Quantity: 1026.56
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.26768 | TP: 1.2969
+
+
+
+Position Informations
+ID: 65 | Asset: EUR/USD | OpenDate: 2013/04/30 | CloseDate: 2013/05/09
+EntryPrice: 1.31678 | ExitPrice: 1.30441 | Quantity: 1617.27
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.32296 | TP: 1.30441
+
+
+
+Position Informations
+ID: 66 | Asset: EUR/USD | OpenDate: 2013/05/15 | CloseDate: 2013/06/06
+EntryPrice: 1.28824 | ExitPrice: 1.30882 | Quantity: 971.854
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.27795 | TP: 1.30882
+
+
+
+Position Informations
+ID: 67 | Asset: EUR/USD | OpenDate: 2013/05/30 | CloseDate: 2013/06/06
+EntryPrice: 1.30419 | ExitPrice: 1.31064 | Quantity: 1550.17
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31064 | TP: 1.29129
+
+
+
+Position Informations
+ID: 68 | Asset: EUR/USD | OpenDate: 2013/06/06 | CloseDate: 2013/06/18
+EntryPrice: 1.32423 | ExitPrice: 1.33632 | Quantity: 827.045
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.33632 | TP: 1.30005
+
+
+
+Position Informations
+ID: 69 | Asset: EUR/USD | OpenDate: 2013/07/05 | CloseDate: 2013/07/10
+EntryPrice: 1.28303 | ExitPrice: 1.30975 | Quantity: 748.596
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.26967 | TP: 1.30975
+
+
+
+Position Informations
+ID: 70 | Asset: EUR/USD | OpenDate: 2013/08/08 | CloseDate: 2013/08/13
+EntryPrice: 1.33791 | ExitPrice: 1.32691 | Quantity: 1818.24
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34341 | TP: 1.32691
+
+
+
+Position Informations
+ID: 71 | Asset: EUR/USD | OpenDate: 2013/08/20 | CloseDate: 2013/08/29
+EntryPrice: 1.34205 | ExitPrice: 1.33153 | Quantity: 1901.46
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34731 | TP: 1.33153
+
+
+
+Position Informations
+ID: 72 | Asset: EUR/USD | OpenDate: 2013/08/29 | CloseDate: 2013/09/03
+EntryPrice: 1.32369 | ExitPrice: 1.31774 | Quantity: 1680.29
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31774 | TP: 1.33559
+
+
+
+Position Informations
+ID: 73 | Asset: EUR/USD | OpenDate: 2013/09/15 | CloseDate: 2013/09/18
+EntryPrice: 1.33584 | ExitPrice: 1.34338 | Quantity: 1325.82
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34338 | TP: 1.32075
+
+
+
+Position Informations
+ID: 74 | Asset: EUR/USD | OpenDate: 2013/09/18 | CloseDate: 2013/10/17
+EntryPrice: 1.35236 | ExitPrice: 1.36434 | Quantity: 834.522
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.36434 | TP: 1.32839
+
+
+
+Position Informations
+ID: 75 | Asset: EUR/USD | OpenDate: 2013/10/17 | CloseDate: 2013/10/22
+EntryPrice: 1.36682 | ExitPrice: 1.37183 | Quantity: 1997.35
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.37183 | TP: 1.35681
+
+
+
+Position Informations
+ID: 76 | Asset: EUR/USD | OpenDate: 2013/10/22 | CloseDate: 2013/10/31
+EntryPrice: 1.37781 | ExitPrice: 1.35937 | Quantity: 1084.76
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.38703 | TP: 1.35937
+
+
+
+Position Informations
+ID: 77 | Asset: EUR/USD | OpenDate: 2013/11/01 | CloseDate: 2013/11/08
+EntryPrice: 1.34853 | ExitPrice: 1.33657 | Quantity: 836.22
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.33657 | TP: 1.37245
+
+
+
+Position Informations
+ID: 78 | Asset: EUR/USD | OpenDate: 2013/12/05 | CloseDate: 2013/12/09
+EntryPrice: 1.36687 | ExitPrice: 1.37329 | Quantity: 1557.98
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.37329 | TP: 1.35403
+
+
+
+Position Informations
+ID: 80 | Asset: EUR/USD | OpenDate: 2013/12/30 | CloseDate: 2014/01/02
+EntryPrice: 1.38081 | ExitPrice: 1.3701 | Quantity: 1866.89
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.38617 | TP: 1.3701
+
+
+
+Position Informations
+ID: 79 | Asset: EUR/USD | OpenDate: 2013/12/09 | CloseDate: 2014/01/08
+EntryPrice: 1.3737 | ExitPrice: 1.35858 | Quantity: 1322.68
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.38126 | TP: 1.35858
+
+
+
+Position Informations
+ID: 81 | Asset: EUR/USD | OpenDate: 2014/01/03 | CloseDate: 2014/01/31
+EntryPrice: 1.35874 | ExitPrice: 1.3524 | Quantity: 1577.5
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.3524 | TP: 1.37142
+
+
+
+Position Informations
+ID: 82 | Asset: EUR/USD | OpenDate: 2014/03/06 | CloseDate: 2014/03/14
+EntryPrice: 1.38633 | ExitPrice: 1.39123 | Quantity: 2039.81
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.39123 | TP: 1.37653
+
+
+
+Position Informations
+ID: 83 | Asset: EUR/USD | OpenDate: 2014/04/04 | CloseDate: 2014/04/08
+EntryPrice: 1.37016 | ExitPrice: 1.37877 | Quantity: 2322.31
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.36585 | TP: 1.37877
+
+
+
+Position Informations
+ID: 85 | Asset: EUR/USD | OpenDate: 2014/04/30 | CloseDate: 2014/05/06
+EntryPrice: 1.38679 | ExitPrice: 1.38904 | Quantity: 4435.62
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.38904 | TP: 1.38228
+
+
+
+Position Informations
+ID: 86 | Asset: EUR/USD | OpenDate: 2014/05/06 | CloseDate: 2014/05/08
+EntryPrice: 1.39291 | ExitPrice: 1.3846 | Quantity: 2407.61
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.39706 | TP: 1.3846
+
+
+
+Position Informations
+ID: 84 | Asset: EUR/USD | OpenDate: 2014/04/10 | CloseDate: 2014/05/09
+EntryPrice: 1.38865 | ExitPrice: 1.37661 | Quantity: 1661.32
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.39467 | TP: 1.37661
+
+
+
+Position Informations
+ID: 87 | Asset: EUR/USD | OpenDate: 2014/05/09 | CloseDate: 2014/05/16
+EntryPrice: 1.37553 | ExitPrice: 1.37069 | Quantity: 2067.22
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.37069 | TP: 1.3852
+
+
+
+Position Informations
+ID: 88 | Asset: EUR/USD | OpenDate: 2014/05/13 | CloseDate: 2014/05/23
+EntryPrice: 1.37078 | ExitPrice: 1.36343 | Quantity: 1359.95
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.36343 | TP: 1.38549
+
+
+
+Position Informations
+ID: 89 | Asset: EUR/USD | OpenDate: 2014/06/10 | CloseDate: 2014/06/25
+EntryPrice: 1.35392 | ExitPrice: 1.36113 | Quantity: 2772.14
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.35031 | TP: 1.36113
+
+
+
+Position Informations
+ID: 90 | Asset: EUR/USD | OpenDate: 2014/06/30 | CloseDate: 2014/07/06
+EntryPrice: 1.36914 | ExitPrice: 1.35929 | Quantity: 2029.78
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.37407 | TP: 1.35929
+
+
+
+Position Informations
+ID: 91 | Asset: EUR/USD | OpenDate: 2014/07/16 | CloseDate: 2014/07/22
+EntryPrice: 1.35281 | ExitPrice: 1.34806 | Quantity: 2103.31
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34806 | TP: 1.36232
+
+
+
+Position Informations
+ID: 92 | Asset: EUR/USD | OpenDate: 2014/07/22 | CloseDate: 2014/07/30
+EntryPrice: 1.34667 | ExitPrice: 1.34076 | Quantity: 1691.3
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.34076 | TP: 1.3585
+
+
+
+Position Informations
+ID: 93 | Asset: EUR/USD | OpenDate: 2014/08/19 | CloseDate: 2014/08/20
+EntryPrice: 1.33203 | ExitPrice: 1.32875 | Quantity: 3052.99
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.32875 | TP: 1.33858
+
+
+
+Position Informations
+ID: 94 | Asset: EUR/USD | OpenDate: 2014/08/22 | CloseDate: 2014/08/26
+EntryPrice: 1.32392 | ExitPrice: 1.31777 | Quantity: 1626.27
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.31777 | TP: 1.33622
+
+
+
+Position Informations
+ID: 95 | Asset: EUR/USD | OpenDate: 2014/09/04 | CloseDate: 2014/09/24
+EntryPrice: 1.29298 | ExitPrice: 1.28257 | Quantity: 960.187
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.28257 | TP: 1.31381
+
+
+
+Position Informations
+ID: 96 | Asset: EUR/USD | OpenDate: 2014/09/24 | CloseDate: 2014/09/26
+EntryPrice: 1.27767 | ExitPrice: 1.27101 | Quantity: 1501.76
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.27101 | TP: 1.29099
+
+
+
+Position Informations
+ID: 97 | Asset: EUR/USD | OpenDate: 2014/09/26 | CloseDate: 2014/10/03
+EntryPrice: 1.2682 | ExitPrice: 1.25853 | Quantity: 1034.37
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.25853 | TP: 1.28754
+
+
+
+Position Informations
+ID: 98 | Asset: EUR/USD | OpenDate: 2014/10/03 | CloseDate: 2014/10/15
+EntryPrice: 1.25145 | ExitPrice: 1.27775 | Quantity: 760.576
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.2383 | TP: 1.27775
+
+
+
+Position Informations
+ID: 99 | Asset: EUR/USD | OpenDate: 2014/10/15 | CloseDate: 2014/10/29
+EntryPrice: 1.28202 | ExitPrice: 1.26396 | Quantity: 1107.41
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.29105 | TP: 1.26396
+
+
+
+Position Informations
+ID: 100 | Asset: EUR/USD | OpenDate: 2014/10/31 | CloseDate: 2014/11/06
+EntryPrice: 1.25224 | ExitPrice: 1.24277 | Quantity: 1055.83
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.24277 | TP: 1.27118
+
+
+
+Position Informations
+ID: 102 | Asset: EUR/USD | OpenDate: 2014/12/03 | CloseDate: 2014/12/10
+EntryPrice: 1.2314 | ExitPrice: 1.24669 | Quantity: 1308.34
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.22376 | TP: 1.24669
+
+
+
+Position Informations
+ID: 103 | Asset: EUR/USD | OpenDate: 2014/12/05 | CloseDate: 2014/12/10
+EntryPrice: 1.22825 | ExitPrice: 1.24579 | Quantity: 1140.38
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.21948 | TP: 1.24579
+
+
+
+Position Informations
+ID: 101 | Asset: EUR/USD | OpenDate: 2014/11/06 | CloseDate: 2014/12/19
+EntryPrice: 1.23803 | ExitPrice: 1.22601 | Quantity: 831.732
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.22601 | TP: 1.26208
+
+
+
+Position Informations
+ID: 104 | Asset: EUR/USD | OpenDate: 2015/01/02 | CloseDate: 2015/01/06
+EntryPrice: 1.20017 | ExitPrice: 1.19079 | Quantity: 1066.04
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19079 | TP: 1.21893
+
+
+
+Position Informations
+ID: 105 | Asset: EUR/USD | OpenDate: 2015/01/16 | CloseDate: 2015/01/22
+EntryPrice: 1.15626 | ExitPrice: 1.1393 | Quantity: 589.731
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1393 | TP: 1.19017
+
+
+
+Position Informations
+ID: 106 | Asset: EUR/USD | OpenDate: 2015/01/22 | CloseDate: 2015/01/25
+EntryPrice: 1.13467 | ExitPrice: 1.11649 | Quantity: 550.164
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11649 | TP: 1.17102
+
+
+
+Position Informations
+ID: 107 | Asset: EUR/USD | OpenDate: 2015/02/26 | CloseDate: 2015/03/04
+EntryPrice: 1.12026 | ExitPrice: 1.11417 | Quantity: 1641.18
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11417 | TP: 1.13245
+
+
+
+Position Informations
+ID: 108 | Asset: EUR/USD | OpenDate: 2015/03/04 | CloseDate: 2015/03/06
+EntryPrice: 1.1079 | ExitPrice: 1.09552 | Quantity: 807.625
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09552 | TP: 1.13266
+
+
+
+Position Informations
+ID: 109 | Asset: EUR/USD | OpenDate: 2015/03/06 | CloseDate: 2015/03/11
+EntryPrice: 1.0844 | ExitPrice: 1.06594 | Quantity: 541.799
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06594 | TP: 1.12131
+
+
+
+Position Informations
+ID: 111 | Asset: EUR/USD | OpenDate: 2015/04/09 | CloseDate: 2015/04/28
+EntryPrice: 1.06665 | ExitPrice: 1.08801 | Quantity: 936.512
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.05597 | TP: 1.08801
+
+
+
+Position Informations
+ID: 110 | Asset: EUR/USD | OpenDate: 2015/03/11 | CloseDate: 2015/04/30
+EntryPrice: 1.05477 | ExitPrice: 1.11207 | Quantity: 349.019
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.02612 | TP: 1.11207
+
+
+
+Position Informations
+ID: 112 | Asset: EUR/USD | OpenDate: 2015/04/29 | CloseDate: 2015/05/06
+EntryPrice: 1.11121 | ExitPrice: 1.12657 | Quantity: 651.151
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12657 | TP: 1.0805
+
+
+
+Position Informations
+ID: 113 | Asset: EUR/USD | OpenDate: 2015/05/15 | CloseDate: 2015/05/19
+EntryPrice: 1.14484 | ExitPrice: 1.12185 | Quantity: 870.072
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15633 | TP: 1.12185
+
+
+
+Position Informations
+ID: 114 | Asset: EUR/USD | OpenDate: 2015/06/28 | CloseDate: 2015/06/29
+EntryPrice: 1.09743 | ExitPrice: 1.12174 | Quantity: 822.765
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08528 | TP: 1.12174
+
+
+
+Position Informations
+ID: 115 | Asset: EUR/USD | OpenDate: 2015/07/16 | CloseDate: 2015/07/27
+EntryPrice: 1.08833 | ExitPrice: 1.10586 | Quantity: 1140.98
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07957 | TP: 1.10586
+
+
+
+Position Informations
+ID: 116 | Asset: EUR/USD | OpenDate: 2015/08/12 | CloseDate: 2015/08/21
+EntryPrice: 1.11546 | ExitPrice: 1.12395 | Quantity: 1177.28
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12395 | TP: 1.09847
+
+
+
+Position Informations
+ID: 117 | Asset: EUR/USD | OpenDate: 2015/08/21 | CloseDate: 2015/08/24
+EntryPrice: 1.13828 | ExitPrice: 1.15288 | Quantity: 684.722
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15288 | TP: 1.10907
+
+
+
+Position Informations
+ID: 118 | Asset: EUR/USD | OpenDate: 2015/10/09 | CloseDate: 2015/10/14
+EntryPrice: 1.13571 | ExitPrice: 1.14144 | Quantity: 1744.26
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14144 | TP: 1.12424
+
+
+
+Position Informations
+ID: 119 | Asset: EUR/USD | OpenDate: 2015/10/14 | CloseDate: 2015/10/22
+EntryPrice: 1.14736 | ExitPrice: 1.12699 | Quantity: 981.772
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15755 | TP: 1.12699
+
+
+
+Position Informations
+ID: 120 | Asset: EUR/USD | OpenDate: 2015/10/22 | CloseDate: 2015/10/28
+EntryPrice: 1.10818 | ExitPrice: 1.09813 | Quantity: 994.947
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09813 | TP: 1.12828
+
+
+
+Position Informations
+ID: 121 | Asset: EUR/USD | OpenDate: 2015/11/06 | CloseDate: 2015/11/29
+EntryPrice: 1.07377 | ExitPrice: 1.05858 | Quantity: 658.13
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.05858 | TP: 1.10416
+
+
+
+Position Informations
+ID: 122 | Asset: EUR/USD | OpenDate: 2015/12/03 | CloseDate: 2015/12/09
+EntryPrice: 1.09177 | ExitPrice: 1.10144 | Quantity: 1034.41
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10144 | TP: 1.07244
+
+
+
+Position Informations
+ID: 123 | Asset: EUR/USD | OpenDate: 2016/01/05 | CloseDate: 2016/01/07
+EntryPrice: 1.07502 | ExitPrice: 1.08987 | Quantity: 1347.05
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.0676 | TP: 1.08987
+
+
+
+Position Informations
+ID: 124 | Asset: EUR/USD | OpenDate: 2016/02/03 | CloseDate: 2016/02/04
+EntryPrice: 1.10929 | ExitPrice: 1.11765 | Quantity: 1196.14
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11765 | TP: 1.09257
+
+
+
+Position Informations
+ID: 125 | Asset: EUR/USD | OpenDate: 2016/03/10 | CloseDate: 2016/03/17
+EntryPrice: 1.11763 | ExitPrice: 1.12663 | Quantity: 1110.81
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12663 | TP: 1.09963
+
+
+
+Position Informations
+ID: 127 | Asset: EUR/USD | OpenDate: 2016/04/14 | CloseDate: 2016/04/29
+EntryPrice: 1.12651 | ExitPrice: 1.13773 | Quantity: 1782.32
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1209 | TP: 1.13773
+
+
+
+Position Informations
+ID: 126 | Asset: EUR/USD | OpenDate: 2016/03/17 | CloseDate: 2016/05/02
+EntryPrice: 1.13152 | ExitPrice: 1.14631 | Quantity: 676.261
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14631 | TP: 1.10195
+
+
+
+Position Informations
+ID: 128 | Asset: EUR/USD | OpenDate: 2016/04/29 | CloseDate: 2016/05/02
+EntryPrice: 1.14503 | ExitPrice: 1.15152 | Quantity: 1540.01
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15152 | TP: 1.13204
+
+
+
+Position Informations
+ID: 129 | Asset: EUR/USD | OpenDate: 2016/05/18 | CloseDate: 2016/05/27
+EntryPrice: 1.12195 | ExitPrice: 1.11247 | Quantity: 1055.05
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11247 | TP: 1.14091
+
+
+
+Position Informations
+ID: 130 | Asset: EUR/USD | OpenDate: 2016/06/03 | CloseDate: 2016/06/14
+EntryPrice: 1.13658 | ExitPrice: 1.12173 | Quantity: 1346.86
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.144 | TP: 1.12173
+
+
+
+Position Informations
+ID: 131 | Asset: EUR/USD | OpenDate: 2016/06/24 | CloseDate: 2016/07/22
+EntryPrice: 1.10913 | ExitPrice: 1.10084 | Quantity: 1206.88
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10084 | TP: 1.1257
+
+
+
+Position Informations
+ID: 132 | Asset: EUR/USD | OpenDate: 2016/07/22 | CloseDate: 2016/07/27
+EntryPrice: 1.09754 | ExitPrice: 1.10559 | Quantity: 2485.36
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09352 | TP: 1.10559
+
+
+
+Position Informations
+ID: 133 | Asset: EUR/USD | OpenDate: 2016/07/29 | CloseDate: 2016/08/16
+EntryPrice: 1.11726 | ExitPrice: 1.12379 | Quantity: 1532.17
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12379 | TP: 1.10421
+
+
+
+Position Informations
+ID: 134 | Asset: EUR/USD | OpenDate: 2016/08/16 | CloseDate: 2016/08/18
+EntryPrice: 1.12759 | ExitPrice: 1.13356 | Quantity: 1675.71
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13356 | TP: 1.11565
+
+
+
+Position Informations
+ID: 135 | Asset: EUR/USD | OpenDate: 2016/10/06 | CloseDate: 2016/10/11
+EntryPrice: 1.11418 | ExitPrice: 1.11071 | Quantity: 2879.34
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11071 | TP: 1.12113
+
+
+
+Position Informations
+ID: 136 | Asset: EUR/USD | OpenDate: 2016/10/10 | CloseDate: 2016/10/11
+EntryPrice: 1.11405 | ExitPrice: 1.11037 | Quantity: 2720.88
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11037 | TP: 1.1214
+
+
+
+Position Informations
+ID: 138 | Asset: EUR/USD | OpenDate: 2016/11/01 | CloseDate: 2016/11/04
+EntryPrice: 1.10553 | ExitPrice: 1.11194 | Quantity: 1560.08
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11194 | TP: 1.09271
+
+
+
+Position Informations
+ID: 137 | Asset: EUR/USD | OpenDate: 2016/10/14 | CloseDate: 2016/11/11
+EntryPrice: 1.09715 | ExitPrice: 1.08689 | Quantity: 974.328
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08689 | TP: 1.11768
+
+
+
+Position Informations
+ID: 139 | Asset: EUR/USD | OpenDate: 2016/11/14 | CloseDate: 2016/11/18
+EntryPrice: 1.07455 | ExitPrice: 1.0612 | Quantity: 748.959
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.0612 | TP: 1.10125
+
+
+
+Position Informations
+ID: 140 | Asset: EUR/USD | OpenDate: 2016/12/05 | CloseDate: 2016/12/08
+EntryPrice: 1.07564 | ExitPrice: 1.06323 | Quantity: 1611.78
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08184 | TP: 1.06323
+
+
+
+Position Informations
+ID: 141 | Asset: EUR/USD | OpenDate: 2016/12/15 | CloseDate: 2017/01/13
+EntryPrice: 1.04167 | ExitPrice: 1.06299 | Quantity: 937.91
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.03101 | TP: 1.06299
+
+
+
+Position Informations
+ID: 142 | Asset: EUR/USD | OpenDate: 2017/01/05 | CloseDate: 2017/01/17
+EntryPrice: 1.06039 | ExitPrice: 1.06724 | Quantity: 1460.14
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06724 | TP: 1.04669
+
+
+
+Position Informations
+ID: 143 | Asset: EUR/USD | OpenDate: 2017/01/31 | CloseDate: 2017/02/09
+EntryPrice: 1.08008 | ExitPrice: 1.06774 | Quantity: 1620.6
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08625 | TP: 1.06774
+
+
+
+Position Informations
+ID: 144 | Asset: EUR/USD | OpenDate: 2017/03/10 | CloseDate: 2017/03/15
+EntryPrice: 1.06728 | ExitPrice: 1.07192 | Quantity: 2156.27
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07192 | TP: 1.058
+
+
+
+Position Informations
+ID: 145 | Asset: EUR/USD | OpenDate: 2017/03/15 | CloseDate: 2017/03/21
+EntryPrice: 1.07375 | ExitPrice: 1.08097 | Quantity: 1385.6
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08097 | TP: 1.05932
+
+
+
+Position Informations
+ID: 146 | Asset: EUR/USD | OpenDate: 2017/03/31 | CloseDate: 2017/04/09
+EntryPrice: 1.06528 | ExitPrice: 1.05881 | Quantity: 1544.7
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.05881 | TP: 1.07823
+
+
+
+Position Informations
+ID: 147 | Asset: EUR/USD | OpenDate: 2017/04/18 | CloseDate: 2017/04/23
+EntryPrice: 1.07274 | ExitPrice: 1.07754 | Quantity: 2083.27
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07754 | TP: 1.06314
+
+
+
+Position Informations
+ID: 148 | Asset: EUR/USD | OpenDate: 2017/04/23 | CloseDate: 2017/05/04
+EntryPrice: 1.08733 | ExitPrice: 1.09639 | Quantity: 1104.14
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09639 | TP: 1.06922
+
+
+
+Position Informations
+ID: 149 | Asset: EUR/USD | OpenDate: 2017/05/16 | CloseDate: 2017/05/19
+EntryPrice: 1.10933 | ExitPrice: 1.11622 | Quantity: 1450.67
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11622 | TP: 1.09554
+
+
+
+Position Informations
+ID: 151 | Asset: EUR/USD | OpenDate: 2017/06/02 | CloseDate: 2017/06/15
+EntryPrice: 1.12825 | ExitPrice: 1.11789 | Quantity: 1930.29
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13343 | TP: 1.11789
+
+
+
+Position Informations
+ID: 150 | Asset: EUR/USD | OpenDate: 2017/05/19 | CloseDate: 2017/06/27
+EntryPrice: 1.12065 | ExitPrice: 1.13316 | Quantity: 799.657
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13316 | TP: 1.09564
+
+
+
+Position Informations
+ID: 152 | Asset: EUR/USD | OpenDate: 2017/06/27 | CloseDate: 2017/06/29
+EntryPrice: 1.13369 | ExitPrice: 1.13922 | Quantity: 1809.15
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13922 | TP: 1.12264
+
+
+
+Position Informations
+ID: 153 | Asset: EUR/USD | OpenDate: 2017/07/18 | CloseDate: 2017/07/20
+EntryPrice: 1.15478 | ExitPrice: 1.16096 | Quantity: 1619.14
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.16096 | TP: 1.14243
+
+
+
+Position Informations
+ID: 154 | Asset: EUR/USD | OpenDate: 2017/07/20 | CloseDate: 2017/07/26
+EntryPrice: 1.16283 | ExitPrice: 1.17159 | Quantity: 1141.27
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17159 | TP: 1.14531
+
+
+
+Position Informations
+ID: 155 | Asset: EUR/USD | OpenDate: 2017/08/25 | CloseDate: 2017/09/07
+EntryPrice: 1.19219 | ExitPrice: 1.19783 | Quantity: 1774.59
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19783 | TP: 1.18092
+
+
+
+Position Informations
+ID: 156 | Asset: EUR/USD | OpenDate: 2017/09/26 | CloseDate: 2017/10/05
+EntryPrice: 1.17838 | ExitPrice: 1.17163 | Quantity: 1482.13
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17163 | TP: 1.19187
+
+
+
+Position Informations
+ID: 157 | Asset: EUR/USD | OpenDate: 2017/10/26 | CloseDate: 2017/11/14
+EntryPrice: 1.16377 | ExitPrice: 1.17624 | Quantity: 1604.03
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15754 | TP: 1.17624
+
+
+
+Position Informations
+ID: 158 | Asset: EUR/USD | OpenDate: 2017/11/14 | CloseDate: 2017/11/23
+EntryPrice: 1.17906 | ExitPrice: 1.18463 | Quantity: 1796.38
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.18463 | TP: 1.16793
+
+
+
+Position Informations
+ID: 159 | Asset: EUR/USD | OpenDate: 2017/11/24 | CloseDate: 2018/01/02
+EntryPrice: 1.19286 | ExitPrice: 1.20307 | Quantity: 979.158
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20307 | TP: 1.17243
+
+
+
+Position Informations
+ID: 160 | Asset: EUR/USD | OpenDate: 2017/12/29 | CloseDate: 2018/01/12
+EntryPrice: 1.19985 | ExitPrice: 1.20781 | Quantity: 1256.87
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20781 | TP: 1.18394
+
+
+
+Position Informations
+ID: 161 | Asset: EUR/USD | OpenDate: 2018/01/02 | CloseDate: 2018/01/12
+EntryPrice: 1.20614 | ExitPrice: 1.21676 | Quantity: 941.461
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.21676 | TP: 1.1849
+
+
+
+Position Informations
+ID: 162 | Asset: EUR/USD | OpenDate: 2018/01/12 | CloseDate: 2018/01/23
+EntryPrice: 1.21993 | ExitPrice: 1.22944 | Quantity: 1051.09
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.22944 | TP: 1.2009
+
+
+
+Position Informations
+ID: 163 | Asset: EUR/USD | OpenDate: 2018/03/26 | CloseDate: 2018/03/28
+EntryPrice: 1.24572 | ExitPrice: 1.23398 | Quantity: 1704.24
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.25159 | TP: 1.23398
+
+
+
+Position Informations
+ID: 164 | Asset: EUR/USD | OpenDate: 2018/04/23 | CloseDate: 2018/04/26
+EntryPrice: 1.22092 | ExitPrice: 1.21511 | Quantity: 1720.06
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.21511 | TP: 1.23255
+
+
+
+Position Informations
+ID: 165 | Asset: EUR/USD | OpenDate: 2018/04/25 | CloseDate: 2018/04/30
+EntryPrice: 1.21706 | ExitPrice: 1.20949 | Quantity: 1320.79
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20949 | TP: 1.2322
+
+
+
+Position Informations
+ID: 166 | Asset: EUR/USD | OpenDate: 2018/05/29 | CloseDate: 2018/06/07
+EntryPrice: 1.15375 | ExitPrice: 1.17889 | Quantity: 795.65
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14118 | TP: 1.17889
+
+
+
+Position Informations
+ID: 167 | Asset: EUR/USD | OpenDate: 2018/08/02 | CloseDate: 2018/08/09
+EntryPrice: 1.1585 | ExitPrice: 1.15375 | Quantity: 2104.67
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15375 | TP: 1.168
+
+
+
+Position Informations
+ID: 168 | Asset: EUR/USD | OpenDate: 2018/08/10 | CloseDate: 2018/08/24
+EntryPrice: 1.1409 | ExitPrice: 1.16009 | Quantity: 1042.45
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13131 | TP: 1.16009
+
+
+
+Position Informations
+ID: 169 | Asset: EUR/USD | OpenDate: 2018/09/20 | CloseDate: 2018/09/27
+EntryPrice: 1.17755 | ExitPrice: 1.16427 | Quantity: 1506.52
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.18419 | TP: 1.16427
+
+
+
+Position Informations
+ID: 170 | Asset: EUR/USD | OpenDate: 2018/10/03 | CloseDate: 2018/10/30
+EntryPrice: 1.14764 | ExitPrice: 1.13714 | Quantity: 951.967
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13714 | TP: 1.16865
+
+
+
+Position Informations
+ID: 171 | Asset: EUR/USD | OpenDate: 2018/10/24 | CloseDate: 2018/10/31
+EntryPrice: 1.13988 | ExitPrice: 1.1337 | Quantity: 1618.05
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1337 | TP: 1.15224
+
+
+
+Position Informations
+ID: 172 | Asset: EUR/USD | OpenDate: 2018/11/12 | CloseDate: 2018/11/16
+EntryPrice: 1.12235 | ExitPrice: 1.13519 | Quantity: 1557.74
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11593 | TP: 1.13519
+
+
+
+Position Informations
+ID: 173 | Asset: EUR/USD | OpenDate: 2018/12/20 | CloseDate: 2018/12/26
+EntryPrice: 1.14565 | ExitPrice: 1.13674 | Quantity: 2244.85
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1501 | TP: 1.13674
+
+
+
+Position Informations
+ID: 174 | Asset: EUR/USD | OpenDate: 2019/01/02 | CloseDate: 2019/01/07
+EntryPrice: 1.13121 | ExitPrice: 1.14186 | Quantity: 1877.15
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12588 | TP: 1.14186
+
+
+
+Position Informations
+ID: 175 | Asset: EUR/USD | OpenDate: 2019/01/09 | CloseDate: 2019/01/15
+EntryPrice: 1.15541 | ExitPrice: 1.14242 | Quantity: 1540.05
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1619 | TP: 1.14242
+
+
+
+Position Informations
+ID: 177 | Asset: EUR/USD | OpenDate: 2019/02/26 | CloseDate: 2019/03/05
+EntryPrice: 1.1393 | ExitPrice: 1.13138 | Quantity: 2524.67
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14326 | TP: 1.13138
+
+
+
+Position Informations
+ID: 176 | Asset: EUR/USD | OpenDate: 2019/02/11 | CloseDate: 2019/03/07
+EntryPrice: 1.12785 | ExitPrice: 1.12086 | Quantity: 1429.82
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12086 | TP: 1.14184
+
+
+
+Position Informations
+ID: 178 | Asset: EUR/USD | OpenDate: 2019/03/07 | CloseDate: 2019/03/13
+EntryPrice: 1.1198 | ExitPrice: 1.13053 | Quantity: 1863.24
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11443 | TP: 1.13053
+
+
+
+Position Informations
+ID: 179 | Asset: EUR/USD | OpenDate: 2019/03/20 | CloseDate: 2019/03/24
+EntryPrice: 1.14284 | ExitPrice: 1.12961 | Quantity: 1511.46
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14946 | TP: 1.12961
+
+
+
+Position Informations
+ID: 180 | Asset: EUR/USD | OpenDate: 2019/04/12 | CloseDate: 2019/04/23
+EntryPrice: 1.12976 | ExitPrice: 1.12327 | Quantity: 3081.2
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13301 | TP: 1.12327
+
+
+
+Position Informations
+ID: 181 | Asset: EUR/USD | OpenDate: 2019/04/24 | CloseDate: 2019/06/03
+EntryPrice: 1.11533 | ExitPrice: 1.1244 | Quantity: 2206.25
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1108 | TP: 1.1244
+
+
+
+Position Informations
+ID: 182 | Asset: EUR/USD | OpenDate: 2019/06/03 | CloseDate: 2019/06/07
+EntryPrice: 1.12457 | ExitPrice: 1.12796 | Quantity: 2951.72
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12796 | TP: 1.11779
+
+
+
+Position Informations
+ID: 183 | Asset: EUR/USD | OpenDate: 2019/06/07 | CloseDate: 2019/06/18
+EntryPrice: 1.13334 | ExitPrice: 1.12046 | Quantity: 1553.29
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13978 | TP: 1.12046
+
+
+
+Position Informations
+ID: 184 | Asset: EUR/USD | OpenDate: 2019/07/23 | CloseDate: 2019/07/31
+EntryPrice: 1.11508 | ExitPrice: 1.11132 | Quantity: 2657.42
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11132 | TP: 1.12261
+
+
+
+Position Informations
+ID: 185 | Asset: EUR/USD | OpenDate: 2019/08/30 | CloseDate: 2019/09/15
+EntryPrice: 1.0988 | ExitPrice: 1.10751 | Quantity: 2296.99
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09445 | TP: 1.10751
+
+
+
+Position Informations
+ID: 186 | Asset: EUR/USD | OpenDate: 2019/09/25 | CloseDate: 2019/09/30
+EntryPrice: 1.09511 | ExitPrice: 1.09106 | Quantity: 2471.89
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09106 | TP: 1.1032
+
+
+
+Position Informations
+ID: 187 | Asset: EUR/USD | OpenDate: 2019/10/11 | CloseDate: 2019/10/16
+EntryPrice: 1.10329 | ExitPrice: 1.10724 | Quantity: 2533.43
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10724 | TP: 1.0954
+
+
+
+Position Informations
+ID: 188 | Asset: EUR/USD | OpenDate: 2019/10/17 | CloseDate: 2019/11/27
+EntryPrice: 1.11244 | ExitPrice: 1.10093 | Quantity: 1737.11
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1182 | TP: 1.10093
+
+
+
+Position Informations
+ID: 189 | Asset: EUR/USD | OpenDate: 2019/11/08 | CloseDate: 2019/12/11
+EntryPrice: 1.10176 | ExitPrice: 1.11197 | Quantity: 1959.08
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09666 | TP: 1.11197
+
+
+
+Position Informations
+ID: 190 | Asset: EUR/USD | OpenDate: 2019/12/11 | CloseDate: 2019/12/12
+EntryPrice: 1.11325 | ExitPrice: 1.11787 | Quantity: 2162.81
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11787 | TP: 1.104
+
+
+
+Position Informations
+ID: 191 | Asset: EUR/USD | OpenDate: 2019/12/30 | CloseDate: 2020/01/09
+EntryPrice: 1.12013 | ExitPrice: 1.11128 | Quantity: 2258.77
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12456 | TP: 1.11128
+
+
+
+Position Informations
+ID: 192 | Asset: EUR/USD | OpenDate: 2020/01/23 | CloseDate: 2020/01/24
+EntryPrice: 1.10554 | ExitPrice: 1.10243 | Quantity: 3216.01
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10243 | TP: 1.11176
+
+
+
+Position Informations
+ID: 193 | Asset: EUR/USD | OpenDate: 2020/02/07 | CloseDate: 2020/02/12
+EntryPrice: 1.09438 | ExitPrice: 1.08948 | Quantity: 2041.82
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08948 | TP: 1.10418
+
+
+
+Position Informations
+ID: 194 | Asset: EUR/USD | OpenDate: 2020/02/10 | CloseDate: 2020/02/13
+EntryPrice: 1.09101 | ExitPrice: 1.08504 | Quantity: 1676.12
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08504 | TP: 1.10294
+
+
+
+Position Informations
+ID: 195 | Asset: EUR/USD | OpenDate: 2020/02/27 | CloseDate: 2020/03/02
+EntryPrice: 1.09963 | ExitPrice: 1.10567 | Quantity: 1654.52
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10567 | TP: 1.08754
+
+
+
+Position Informations
+ID: 196 | Asset: EUR/USD | OpenDate: 2020/03/18 | CloseDate: 2020/03/19
+EntryPrice: 1.09442 | ExitPrice: 1.07995 | Quantity: 691.245
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07995 | TP: 1.12335
+
+
+
+Position Informations
+ID: 197 | Asset: EUR/USD | OpenDate: 2020/04/23 | CloseDate: 2020/04/30
+EntryPrice: 1.07743 | ExitPrice: 1.08964 | Quantity: 1638.25
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07133 | TP: 1.08964
+
+
+
+Position Informations
+ID: 198 | Asset: EUR/USD | OpenDate: 2020/05/01 | CloseDate: 2020/05/05
+EntryPrice: 1.09777 | ExitPrice: 1.08556 | Quantity: 1637.77
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10388 | TP: 1.08556
+
+
+
+Position Informations
+ID: 199 | Asset: EUR/USD | OpenDate: 2020/05/20 | CloseDate: 2020/05/28
+EntryPrice: 1.09796 | ExitPrice: 1.10409 | Quantity: 1630.94
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10409 | TP: 1.0857
+
+
+
+Position Informations
+ID: 200 | Asset: EUR/USD | OpenDate: 2020/05/28 | CloseDate: 2020/06/02
+EntryPrice: 1.10779 | ExitPrice: 1.11712 | Quantity: 1071.34
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11712 | TP: 1.08912
+
+
+
+Position Informations
+ID: 202 | Asset: EUR/USD | OpenDate: 2020/06/19 | CloseDate: 2020/06/23
+EntryPrice: 1.11759 | ExitPrice: 1.12997 | Quantity: 1616.05
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1114 | TP: 1.12997
+
+
+
+Position Informations
+ID: 203 | Asset: EUR/USD | OpenDate: 2020/07/08 | CloseDate: 2020/07/14
+EntryPrice: 1.13372 | ExitPrice: 1.13799 | Quantity: 2344.28
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13799 | TP: 1.12519
+
+
+
+Position Informations
+ID: 201 | Asset: EUR/USD | OpenDate: 2020/06/04 | CloseDate: 2020/07/21
+EntryPrice: 1.13354 | ExitPrice: 1.14902 | Quantity: 646.058
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14902 | TP: 1.10258
+
+
+
+Position Informations
+ID: 204 | Asset: EUR/USD | OpenDate: 2020/07/14 | CloseDate: 2020/07/21
+EntryPrice: 1.14099 | ExitPrice: 1.14703 | Quantity: 1656.06
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14703 | TP: 1.12891
+
+
+
+Position Informations
+ID: 205 | Asset: EUR/USD | OpenDate: 2020/07/21 | CloseDate: 2020/07/24
+EntryPrice: 1.1535 | ExitPrice: 1.16289 | Quantity: 1065.25
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.16289 | TP: 1.13473
+
+
+
+Position Informations
+ID: 206 | Asset: EUR/USD | OpenDate: 2020/07/24 | CloseDate: 2020/07/30
+EntryPrice: 1.16546 | ExitPrice: 1.17853 | Quantity: 764.9
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17853 | TP: 1.13931
+
+
+
+Position Informations
+ID: 207 | Asset: EUR/USD | OpenDate: 2020/07/27 | CloseDate: 2020/08/18
+EntryPrice: 1.17682 | ExitPrice: 1.19287 | Quantity: 623.171
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19287 | TP: 1.14473
+
+
+
+Position Informations
+ID: 208 | Asset: EUR/USD | OpenDate: 2020/08/18 | CloseDate: 2020/08/21
+EntryPrice: 1.19464 | ExitPrice: 1.18094 | Quantity: 1459.49
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20149 | TP: 1.18094
+
+
+
+Position Informations
+ID: 209 | Asset: EUR/USD | OpenDate: 2020/09/21 | CloseDate: 2020/09/22
+EntryPrice: 1.17626 | ExitPrice: 1.17283 | Quantity: 2918.73
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17283 | TP: 1.18311
+
+
+
+Position Informations
+ID: 210 | Asset: EUR/USD | OpenDate: 2020/09/25 | CloseDate: 2020/10/09
+EntryPrice: 1.16277 | ExitPrice: 1.18132 | Quantity: 1078.19
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1535 | TP: 1.18132
+
+
+
+Position Informations
+ID: 211 | Asset: EUR/USD | OpenDate: 2020/11/25 | CloseDate: 2020/11/27
+EntryPrice: 1.19162 | ExitPrice: 1.19561 | Quantity: 2506.73
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19561 | TP: 1.18364
+
+
+
+Position Informations
+ID: 212 | Asset: EUR/USD | OpenDate: 2020/11/27 | CloseDate: 2020/12/01
+EntryPrice: 1.1962 | ExitPrice: 1.20146 | Quantity: 1900.4
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20146 | TP: 1.18568
+
+
+
+Position Informations
+ID: 213 | Asset: EUR/USD | OpenDate: 2020/12/01 | CloseDate: 2020/12/03
+EntryPrice: 1.20706 | ExitPrice: 1.21444 | Quantity: 1354.19
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.21444 | TP: 1.19229
+
+
+
+Position Informations
+ID: 214 | Asset: EUR/USD | OpenDate: 2020/12/17 | CloseDate: 2021/01/06
+EntryPrice: 1.22614 | ExitPrice: 1.23157 | Quantity: 1842.35
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.23157 | TP: 1.21528
+
+
+
+Position Informations
+ID: 216 | Asset: EUR/USD | OpenDate: 2021/01/06 | CloseDate: 2021/01/08
+EntryPrice: 1.23382 | ExitPrice: 1.22303 | Quantity: 1853.96
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.23921 | TP: 1.22303
+
+
+
+Position Informations
+ID: 215 | Asset: EUR/USD | OpenDate: 2020/12/30 | CloseDate: 2021/01/10
+EntryPrice: 1.22984 | ExitPrice: 1.22026 | Quantity: 2088.23
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.23463 | TP: 1.22026
+
+
+
+Position Informations
+ID: 217 | Asset: EUR/USD | OpenDate: 2021/01/15 | CloseDate: 2021/02/04
+EntryPrice: 1.20748 | ExitPrice: 1.19954 | Quantity: 1259.61
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19954 | TP: 1.22336
+
+
+
+Position Informations
+ID: 218 | Asset: EUR/USD | OpenDate: 2021/02/02 | CloseDate: 2021/02/04
+EntryPrice: 1.20365 | ExitPrice: 1.19885 | Quantity: 2083.42
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19885 | TP: 1.21325
+
+
+
+Position Informations
+ID: 219 | Asset: EUR/USD | OpenDate: 2021/02/04 | CloseDate: 2021/02/09
+EntryPrice: 1.19662 | ExitPrice: 1.21014 | Quantity: 1479.23
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.18986 | TP: 1.21014
+
+
+
+Position Informations
+ID: 220 | Asset: EUR/USD | OpenDate: 2021/03/04 | CloseDate: 2021/03/08
+EntryPrice: 1.19672 | ExitPrice: 1.19032 | Quantity: 1561.32
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19032 | TP: 1.20953
+
+
+
+Position Informations
+ID: 221 | Asset: EUR/USD | OpenDate: 2021/03/08 | CloseDate: 2021/03/30
+EntryPrice: 1.18508 | ExitPrice: 1.17342 | Quantity: 857.301
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17342 | TP: 1.20841
+
+
+
+Position Informations
+ID: 222 | Asset: EUR/USD | OpenDate: 2021/03/24 | CloseDate: 2021/03/30
+EntryPrice: 1.18127 | ExitPrice: 1.17562 | Quantity: 1770.88
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17562 | TP: 1.19256
+
+
+
+Position Informations
+ID: 223 | Asset: EUR/USD | OpenDate: 2021/04/08 | CloseDate: 2021/04/14
+EntryPrice: 1.19153 | ExitPrice: 1.19789 | Quantity: 1571.77
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19789 | TP: 1.17881
+
+
+
+Position Informations
+ID: 224 | Asset: EUR/USD | OpenDate: 2021/05/07 | CloseDate: 2021/05/18
+EntryPrice: 1.21615 | ExitPrice: 1.22176 | Quantity: 1780.97
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.22176 | TP: 1.20492
+
+
+
+Position Informations
+ID: 225 | Asset: EUR/USD | OpenDate: 2021/06/03 | CloseDate: 2021/06/16
+EntryPrice: 1.213 | ExitPrice: 1.20962 | Quantity: 2956.37
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20962 | TP: 1.21977
+
+
+
+Position Informations
+ID: 226 | Asset: EUR/USD | OpenDate: 2021/06/11 | CloseDate: 2021/06/16
+EntryPrice: 1.21072 | ExitPrice: 1.20706 | Quantity: 2730.95
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.20706 | TP: 1.21804
+
+
+
+Position Informations
+ID: 227 | Asset: EUR/USD | OpenDate: 2021/06/16 | CloseDate: 2021/06/17
+EntryPrice: 1.1995 | ExitPrice: 1.19271 | Quantity: 1472.53
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19271 | TP: 1.21308
+
+
+
+Position Informations
+ID: 229 | Asset: EUR/USD | OpenDate: 2021/07/13 | CloseDate: 2021/07/29
+EntryPrice: 1.17748 | ExitPrice: 1.18764 | Quantity: 1969.29
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1724 | TP: 1.18764
+
+
+
+Position Informations
+ID: 230 | Asset: EUR/USD | OpenDate: 2021/07/29 | CloseDate: 2021/08/06
+EntryPrice: 1.18903 | ExitPrice: 1.18137 | Quantity: 2610.15
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19286 | TP: 1.18137
+
+
+
+Position Informations
+ID: 228 | Asset: EUR/USD | OpenDate: 2021/07/07 | CloseDate: 2021/08/09
+EntryPrice: 1.17929 | ExitPrice: 1.17378 | Quantity: 1814.71
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17378 | TP: 1.19031
+
+
+
+Position Informations
+ID: 231 | Asset: EUR/USD | OpenDate: 2021/09/02 | CloseDate: 2021/09/17
+EntryPrice: 1.18736 | ExitPrice: 1.17389 | Quantity: 1485.01
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19409 | TP: 1.17389
+
+
+
+Position Informations
+ID: 232 | Asset: EUR/USD | OpenDate: 2021/09/16 | CloseDate: 2021/09/17
+EntryPrice: 1.17648 | ExitPrice: 1.17253 | Quantity: 2534.76
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17253 | TP: 1.18437
+
+
+
+Position Informations
+ID: 233 | Asset: EUR/USD | OpenDate: 2021/09/29 | CloseDate: 2021/10/12
+EntryPrice: 1.16014 | ExitPrice: 1.15375 | Quantity: 1563.75
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15375 | TP: 1.17293
+
+
+
+Position Informations
+ID: 234 | Asset: EUR/USD | OpenDate: 2021/10/20 | CloseDate: 2021/10/29
+EntryPrice: 1.16523 | ExitPrice: 1.15765 | Quantity: 2638.96
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.16902 | TP: 1.15765
+
+
+
+Position Informations
+ID: 235 | Asset: EUR/USD | OpenDate: 2021/10/28 | CloseDate: 2021/10/29
+EntryPrice: 1.16821 | ExitPrice: 1.16018 | Quantity: 2491.01
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17222 | TP: 1.16018
+
+
+
+Position Informations
+ID: 236 | Asset: EUR/USD | OpenDate: 2021/11/10 | CloseDate: 2021/11/15
+EntryPrice: 1.14856 | ExitPrice: 1.14368 | Quantity: 2047.27
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14368 | TP: 1.15833
+
+
+
+Position Informations
+ID: 237 | Asset: EUR/USD | OpenDate: 2021/11/15 | CloseDate: 2021/11/19
+EntryPrice: 1.13668 | ExitPrice: 1.12805 | Quantity: 1159.37
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12805 | TP: 1.15393
+
+
+
+Position Informations
+ID: 238 | Asset: EUR/USD | OpenDate: 2021/12/14 | CloseDate: 2021/12/16
+EntryPrice: 1.12575 | ExitPrice: 1.13092 | Quantity: 3867.68
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12316 | TP: 1.13092
+
+
+
+Position Informations
+ID: 239 | Asset: EUR/USD | OpenDate: 2021/12/17 | CloseDate: 2021/12/22
+EntryPrice: 1.1237 | ExitPrice: 1.13022 | Quantity: 3068.86
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12044 | TP: 1.13022
+
+
+
+Position Informations
+ID: 240 | Asset: EUR/USD | OpenDate: 2022/01/12 | CloseDate: 2022/01/18
+EntryPrice: 1.14394 | ExitPrice: 1.13471 | Quantity: 2167.37
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14855 | TP: 1.13471
+
+
+
+Position Informations
+ID: 241 | Asset: EUR/USD | OpenDate: 2022/01/26 | CloseDate: 2022/01/27
+EntryPrice: 1.12405 | ExitPrice: 1.11733 | Quantity: 1488.61
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11733 | TP: 1.13749
+
+
+
+Position Informations
+ID: 242 | Asset: EUR/USD | OpenDate: 2022/02/24 | CloseDate: 2022/03/02
+EntryPrice: 1.11905 | ExitPrice: 1.11231 | Quantity: 1483.72
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11231 | TP: 1.13253
+
+
+
+Position Informations
+ID: 243 | Asset: EUR/USD | OpenDate: 2022/02/27 | CloseDate: 2022/03/03
+EntryPrice: 1.118 | ExitPrice: 1.11067 | Quantity: 1364.06
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11067 | TP: 1.13266
+
+
+
+Position Informations
+ID: 244 | Asset: EUR/USD | OpenDate: 2022/03/01 | CloseDate: 2022/03/04
+EntryPrice: 1.11322 | ExitPrice: 1.10451 | Quantity: 1148.52
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10451 | TP: 1.13063
+
+
+
+Position Informations
+ID: 246 | Asset: EUR/USD | OpenDate: 2022/03/30 | CloseDate: 2022/04/04
+EntryPrice: 1.11613 | ExitPrice: 1.10295 | Quantity: 1517.06
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12272 | TP: 1.10295
+
+
+
+Position Informations
+ID: 247 | Asset: EUR/USD | OpenDate: 2022/04/05 | CloseDate: 2022/04/12
+EntryPrice: 1.09058 | ExitPrice: 1.08374 | Quantity: 1462.9
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08374 | TP: 1.10425
+
+
+
+Position Informations
+ID: 245 | Asset: EUR/USD | OpenDate: 2022/03/04 | CloseDate: 2022/04/18
+EntryPrice: 1.09311 | ExitPrice: 1.07853 | Quantity: 686.016
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07853 | TP: 1.12226
+
+
+
+Position Informations
+ID: 248 | Asset: EUR/USD | OpenDate: 2022/04/25 | CloseDate: 2022/04/26
+EntryPrice: 1.07124 | ExitPrice: 1.06574 | Quantity: 1816.75
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06574 | TP: 1.08225
+
+
+
+Position Informations
+ID: 249 | Asset: EUR/USD | OpenDate: 2022/05/12 | CloseDate: 2022/05/17
+EntryPrice: 1.03784 | ExitPrice: 1.05127 | Quantity: 1488.86
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.03112 | TP: 1.05127
+
+
+
+Position Informations
+ID: 251 | Asset: EUR/USD | OpenDate: 2022/06/09 | CloseDate: 2022/06/10
+EntryPrice: 1.0619 | ExitPrice: 1.0574 | Quantity: 2221.52
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.0574 | TP: 1.0709
+
+
+
+Position Informations
+ID: 250 | Asset: EUR/USD | OpenDate: 2022/05/23 | CloseDate: 2022/06/12
+EntryPrice: 1.06837 | ExitPrice: 1.04946 | Quantity: 1057.86
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07782 | TP: 1.04946
+
+
+
+Position Informations
+ID: 252 | Asset: EUR/USD | OpenDate: 2022/07/05 | CloseDate: 2022/07/11
+EntryPrice: 1.02565 | ExitPrice: 1.01611 | Quantity: 1047.92
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.01611 | TP: 1.04474
+
+
+
+Position Informations
+ID: 253 | Asset: EUR/USD | OpenDate: 2022/08/10 | CloseDate: 2022/08/15
+EntryPrice: 1.02986 | ExitPrice: 1.01967 | Quantity: 1963.6
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.03495 | TP: 1.01967
+
+
+
+Position Informations
+ID: 254 | Asset: EUR/USD | OpenDate: 2022/08/19 | CloseDate: 2022/08/22
+EntryPrice: 1.00326 | ExitPrice: 0.99457 | Quantity: 1150.76
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 0.99457 | TP: 1.02064
+
+
+
+Position Informations
+ID: 256 | Asset: EUR/USD | OpenDate: 2022/09/12 | CloseDate: 2022/09/13
+EntryPrice: 1.0129 | ExitPrice: 0.998178 | Quantity: 1358.49
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.02026 | TP: 0.998178
+
+
+
+Position Informations
+ID: 255 | Asset: EUR/USD | OpenDate: 2022/08/22 | CloseDate: 2022/09/23
+EntryPrice: 0.9938 | ExitPrice: 0.981662 | Quantity: 823.846
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 0.981662 | TP: 1.01808
+
+
+
+Position Informations
+ID: 257 | Asset: EUR/USD | OpenDate: 2022/09/21 | CloseDate: 2022/09/23
+EntryPrice: 0.98313 | ExitPrice: 0.975055 | Quantity: 1238.4
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 0.975055 | TP: 0.99928
+
+
+
+Position Informations
+ID: 258 | Asset: EUR/USD | OpenDate: 2022/09/23 | CloseDate: 2022/10/04
+EntryPrice: 0.96885 | ExitPrice: 0.994203 | Quantity: 788.858
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 0.956173 | TP: 0.994203
+
+
+
+Position Informations
+ID: 259 | Asset: EUR/USD | OpenDate: 2022/10/25 | CloseDate: 2022/10/26
+EntryPrice: 0.99616 | ExitPrice: 1.00545 | Quantity: 1076.42
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.00545 | TP: 0.97758
+
+
+
+Position Informations
+ID: 260 | Asset: EUR/USD | OpenDate: 2022/11/10 | CloseDate: 2022/11/11
+EntryPrice: 1.01914 | ExitPrice: 1.03198 | Quantity: 778.599
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.03198 | TP: 0.993453
+
+
+
+Position Informations
+ID: 261 | Asset: EUR/USD | OpenDate: 2022/12/01 | CloseDate: 2022/12/13
+EntryPrice: 1.05278 | ExitPrice: 1.06027 | Quantity: 1335.59
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06027 | TP: 1.03781
+
+
+
+Position Informations
+ID: 262 | Asset: EUR/USD | OpenDate: 2022/12/30 | CloseDate: 2023/01/03
+EntryPrice: 1.07026 | ExitPrice: 1.06276 | Quantity: 2666.58
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07401 | TP: 1.06276
+
+
+
+Position Informations
+ID: 264 | Asset: EUR/USD | OpenDate: 2023/01/05 | CloseDate: 2023/01/06
+EntryPrice: 1.05208 | ExitPrice: 1.06359 | Quantity: 1738.27
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.04633 | TP: 1.06359
+
+
+
+Position Informations
+ID: 263 | Asset: EUR/USD | OpenDate: 2023/01/03 | CloseDate: 2023/01/08
+EntryPrice: 1.05455 | ExitPrice: 1.06428 | Quantity: 2055.54
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.04969 | TP: 1.06428
+
+
+
+Position Informations
+ID: 265 | Asset: EUR/USD | OpenDate: 2023/01/12 | CloseDate: 2023/02/01
+EntryPrice: 1.08595 | ExitPrice: 1.0958 | Quantity: 1014.85
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.0958 | TP: 1.06624
+
+
+
+Position Informations
+ID: 266 | Asset: EUR/USD | OpenDate: 2023/02/01 | CloseDate: 2023/02/03
+EntryPrice: 1.10124 | ExitPrice: 1.08897 | Quantity: 1630.25
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10737 | TP: 1.08897
+
+
+
+Position Informations
+ID: 267 | Asset: EUR/USD | OpenDate: 2023/02/06 | CloseDate: 2023/02/21
+EntryPrice: 1.07289 | ExitPrice: 1.06545 | Quantity: 1343.99
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06545 | TP: 1.08777
+
+
+
+Position Informations
+ID: 268 | Asset: EUR/USD | OpenDate: 2023/02/22 | CloseDate: 2023/02/24
+EntryPrice: 1.06053 | ExitPrice: 1.05621 | Quantity: 2315.23
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.05621 | TP: 1.06917
+
+
+
+Position Informations
+ID: 269 | Asset: EUR/USD | OpenDate: 2023/03/22 | CloseDate: 2023/04/12
+EntryPrice: 1.08688 | ExitPrice: 1.09704 | Quantity: 983.91
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09704 | TP: 1.06655
+
+
+
+Position Informations
+ID: 270 | Asset: EUR/USD | OpenDate: 2023/04/12 | CloseDate: 2023/05/03
+EntryPrice: 1.09968 | ExitPrice: 1.10599 | Quantity: 1585.03
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10599 | TP: 1.08706
+
+
+
+Position Informations
+ID: 271 | Asset: EUR/USD | OpenDate: 2023/05/11 | CloseDate: 2023/05/12
+EntryPrice: 1.09122 | ExitPrice: 1.08685 | Quantity: 2287.41
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08685 | TP: 1.09996
+
+
+
+Position Informations
+ID: 272 | Asset: EUR/USD | OpenDate: 2023/06/08 | CloseDate: 2023/06/14
+EntryPrice: 1.07818 | ExitPrice: 1.08145 | Quantity: 3059.99
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08145 | TP: 1.07164
+
+
+
+Position Informations
+ID: 273 | Asset: EUR/USD | OpenDate: 2023/06/14 | CloseDate: 2023/06/15
+EntryPrice: 1.08427 | ExitPrice: 1.08925 | Quantity: 2009.92
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08925 | TP: 1.07432
+
+
+
+Position Informations
+ID: 274 | Asset: EUR/USD | OpenDate: 2023/07/10 | CloseDate: 2023/07/12
+EntryPrice: 1.10052 | ExitPrice: 1.10526 | Quantity: 2107.75
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10526 | TP: 1.09103
+
+
+
+Position Informations
+ID: 275 | Asset: EUR/USD | OpenDate: 2023/07/12 | CloseDate: 2023/07/16
+EntryPrice: 1.11405 | ExitPrice: 1.12248 | Quantity: 1185.6
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.12248 | TP: 1.09718
+
+
+
+Position Informations
+ID: 276 | Asset: EUR/USD | OpenDate: 2023/08/14 | CloseDate: 2023/08/18
+EntryPrice: 1.09077 | ExitPrice: 1.08686 | Quantity: 2555.37
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08686 | TP: 1.0986
+
+
+
+Position Informations
+ID: 277 | Asset: EUR/USD | OpenDate: 2023/08/16 | CloseDate: 2023/08/24
+EntryPrice: 1.08743 | ExitPrice: 1.08263 | Quantity: 2085.25
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08263 | TP: 1.09702
+
+
+
+Position Informations
+ID: 278 | Asset: EUR/USD | OpenDate: 2023/08/24 | CloseDate: 2023/08/30
+EntryPrice: 1.0799 | ExitPrice: 1.09184 | Quantity: 1674.37
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07393 | TP: 1.09184
+
+
+
+Position Informations
+ID: 279 | Asset: EUR/USD | OpenDate: 2023/09/27 | CloseDate: 2023/10/23
+EntryPrice: 1.05052 | ExitPrice: 1.06583 | Quantity: 1306.55
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.04287 | TP: 1.06583
+
+
+
+Position Informations
+ID: 280 | Asset: EUR/USD | OpenDate: 2023/10/02 | CloseDate: 2023/10/23
+EntryPrice: 1.04798 | ExitPrice: 1.06316 | Quantity: 1317.47
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.04039 | TP: 1.06316
+
+
+
+Position Informations
+ID: 281 | Asset: EUR/USD | OpenDate: 2023/10/23 | CloseDate: 2023/10/25
+EntryPrice: 1.06698 | ExitPrice: 1.05743 | Quantity: 2094.19
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07176 | TP: 1.05743
+
+
+
+Position Informations
+ID: 282 | Asset: EUR/USD | OpenDate: 2023/11/03 | CloseDate: 2023/11/14
+EntryPrice: 1.07295 | ExitPrice: 1.07851 | Quantity: 1796.97
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07851 | TP: 1.06182
+
+
+
+Position Informations
+ID: 283 | Asset: EUR/USD | OpenDate: 2023/11/14 | CloseDate: 2023/11/28
+EntryPrice: 1.08777 | ExitPrice: 1.09702 | Quantity: 1080.97
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09702 | TP: 1.06927
+
+
+
+Position Informations
+ID: 284 | Asset: EUR/USD | OpenDate: 2023/12/04 | CloseDate: 2023/12/06
+EntryPrice: 1.08373 | ExitPrice: 1.07887 | Quantity: 2057.43
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07887 | TP: 1.09345
+
+
+
+Position Informations
+ID: 285 | Asset: EUR/USD | OpenDate: 2024/02/02 | CloseDate: 2024/02/05
+EntryPrice: 1.07849 | ExitPrice: 1.07475 | Quantity: 2675.57
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07475 | TP: 1.08597
+
+
+
+Position Informations
+ID: 287 | Asset: EUR/USD | OpenDate: 2024/02/13 | CloseDate: 2024/02/20
+EntryPrice: 1.07083 | ExitPrice: 1.08079 | Quantity: 2008.68
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06585 | TP: 1.08079
+
+
+
+Position Informations
+ID: 286 | Asset: EUR/USD | OpenDate: 2024/02/05 | CloseDate: 2024/02/26
+EntryPrice: 1.0741 | ExitPrice: 1.08453 | Quantity: 1916.86
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06888 | TP: 1.08453
+
+
+
+Position Informations
+ID: 288 | Asset: EUR/USD | OpenDate: 2024/03/06 | CloseDate: 2024/03/07
+EntryPrice: 1.08995 | ExitPrice: 1.09322 | Quantity: 3059.76
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09322 | TP: 1.08341
+
+
+
+Position Informations
+ID: 289 | Asset: EUR/USD | OpenDate: 2024/03/22 | CloseDate: 2024/04/01
+EntryPrice: 1.08065 | ExitPrice: 1.0758 | Quantity: 2060.88
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.0758 | TP: 1.09035
+
+
+
+Position Informations
+ID: 290 | Asset: EUR/USD | OpenDate: 2024/04/12 | CloseDate: 2024/05/09
+EntryPrice: 1.06385 | ExitPrice: 1.07787 | Quantity: 1426.04
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.05684 | TP: 1.07787
+
+
+
+Position Informations
+ID: 291 | Asset: EUR/USD | OpenDate: 2024/05/03 | CloseDate: 2024/05/14
+EntryPrice: 1.07594 | ExitPrice: 1.07993 | Quantity: 2506.64
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.07993 | TP: 1.06796
+
+
+
+Position Informations
+ID: 293 | Asset: EUR/USD | OpenDate: 2024/06/03 | CloseDate: 2024/06/07
+EntryPrice: 1.09071 | ExitPrice: 1.08477 | Quantity: 3364.85
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09368 | TP: 1.08477
+
+
+
+Position Informations
+ID: 292 | Asset: EUR/USD | OpenDate: 2024/05/15 | CloseDate: 2024/06/10
+EntryPrice: 1.08883 | ExitPrice: 1.07724 | Quantity: 1725.05
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09463 | TP: 1.07724
+
+
+
+Position Informations
+ID: 294 | Asset: EUR/USD | OpenDate: 2024/06/11 | CloseDate: 2024/06/26
+EntryPrice: 1.07399 | ExitPrice: 1.06834 | Quantity: 1770.9
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06834 | TP: 1.08528
+
+
+
+Position Informations
+ID: 295 | Asset: EUR/USD | OpenDate: 2024/07/03 | CloseDate: 2024/07/05
+EntryPrice: 1.0791 | ExitPrice: 1.08245 | Quantity: 2986.25
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.08245 | TP: 1.0724
+
+
+
+Position Informations
+ID: 296 | Asset: EUR/USD | OpenDate: 2024/08/05 | CloseDate: 2024/08/14
+EntryPrice: 1.09505 | ExitPrice: 1.10014 | Quantity: 1966.33
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10014 | TP: 1.08488
+
+
+
+Position Informations
+ID: 297 | Asset: EUR/USD | OpenDate: 2024/08/19 | CloseDate: 2024/08/21
+EntryPrice: 1.10854 | ExitPrice: 1.11487 | Quantity: 1579.58
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11487 | TP: 1.09588
+
+
+
+Position Informations
+ID: 298 | Asset: EUR/USD | OpenDate: 2024/10/01 | CloseDate: 2024/10/04
+EntryPrice: 1.10644 | ExitPrice: 1.10239 | Quantity: 2471.62
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10239 | TP: 1.11453
+
+
+
+Position Informations
+ID: 299 | Asset: EUR/USD | OpenDate: 2024/11/05 | CloseDate: 2024/11/06
+EntryPrice: 1.09339 | ExitPrice: 1.08353 | Quantity: 2028.59
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.09832 | TP: 1.08353
+
+
+
+Position Informations
+ID: 300 | Asset: EUR/USD | OpenDate: 2024/11/12 | CloseDate: 2024/11/21
+EntryPrice: 1.06166 | ExitPrice: 1.0513 | Quantity: 965.348
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.0513 | TP: 1.08238
+
+
+
+Position Informations
+ID: 301 | Asset: EUR/USD | OpenDate: 2024/12/18 | CloseDate: 2025/01/02
+EntryPrice: 1.03506 | ExitPrice: 1.02873 | Quantity: 1579.48
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.02873 | TP: 1.04772
+
+
+
+Position Informations
+ID: 302 | Asset: EUR/USD | OpenDate: 2025/01/02 | CloseDate: 2025/01/20
+EntryPrice: 1.02678 | ExitPrice: 1.03886 | Quantity: 1655.94
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.02074 | TP: 1.03886
+
+
+
+Position Informations
+ID: 303 | Asset: EUR/USD | OpenDate: 2025/01/20 | CloseDate: 2025/01/24
+EntryPrice: 1.04208 | ExitPrice: 1.04768 | Quantity: 1786.78
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.04768 | TP: 1.03089
+
+
+
+Position Informations
+ID: 304 | Asset: EUR/USD | OpenDate: 2025/01/24 | CloseDate: 2025/02/02
+EntryPrice: 1.04919 | ExitPrice: 1.03128 | Quantity: 1116.46
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.05815 | TP: 1.03128
+
+
+
+Position Informations
+ID: 305 | Asset: EUR/USD | OpenDate: 2025/03/04 | CloseDate: 2025/03/05
+EntryPrice: 1.0623 | ExitPrice: 1.06919 | Quantity: 1452.06
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06919 | TP: 1.04853
+
+
+
+Position Informations
+ID: 306 | Asset: EUR/USD | OpenDate: 2025/03/26 | CloseDate: 2025/04/02
+EntryPrice: 1.07409 | ExitPrice: 1.08681 | Quantity: 1572.13
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.06773 | TP: 1.08681
+
+
+
+Position Informations
+ID: 307 | Asset: EUR/USD | OpenDate: 2025/04/03 | CloseDate: 2025/04/10
+EntryPrice: 1.1045 | ExitPrice: 1.11326 | Quantity: 1141.36
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11326 | TP: 1.08698
+
+
+
+Position Informations
+ID: 308 | Asset: EUR/USD | OpenDate: 2025/04/10 | CloseDate: 2025/04/20
+EntryPrice: 1.12576 | ExitPrice: 1.14109 | Quantity: 652.322
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14109 | TP: 1.0951
+
+
+
+Position Informations
+ID: 309 | Asset: EUR/USD | OpenDate: 2025/05/08 | CloseDate: 2025/05/12
+EntryPrice: 1.12267 | ExitPrice: 1.11753 | Quantity: 1944.77
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.11753 | TP: 1.13295
+
+
+
+Position Informations
+ID: 310 | Asset: EUR/USD | OpenDate: 2025/05/12 | CloseDate: 2025/05/20
+EntryPrice: 1.10953 | ExitPrice: 1.12746 | Quantity: 1115.15
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.10056 | TP: 1.12746
+
+
+
+Position Informations
+ID: 311 | Asset: EUR/USD | OpenDate: 2025/06/12 | CloseDate: 2025/06/27
+EntryPrice: 1.16084 | ExitPrice: 1.17072 | Quantity: 1012.24
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17072 | TP: 1.14108
+
+
+
+Position Informations
+ID: 312 | Asset: EUR/USD | OpenDate: 2025/06/25 | CloseDate: 2025/06/30
+EntryPrice: 1.16831 | ExitPrice: 1.1764 | Quantity: 1236.54
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1764 | TP: 1.15214
+
+
+
+Position Informations
+ID: 313 | Asset: EUR/USD | OpenDate: 2025/07/15 | CloseDate: 2025/07/22
+EntryPrice: 1.1607 | ExitPrice: 1.17367 | Quantity: 1542.06
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.15422 | TP: 1.17367
+
+
+
+Position Informations
+ID: 314 | Asset: EUR/USD | OpenDate: 2025/07/30 | CloseDate: 2025/08/06
+EntryPrice: 1.14278 | ExitPrice: 1.1644 | Quantity: 925.154
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.13197 | TP: 1.1644
+
+
+
+Position Informations
+ID: 315 | Asset: EUR/USD | OpenDate: 2025/09/08 | CloseDate: 2025/09/16
+EntryPrice: 1.17684 | ExitPrice: 1.18161 | Quantity: 2098.63
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.18161 | TP: 1.16731
+
+
+
+Position Informations
+ID: 316 | Asset: EUR/USD | OpenDate: 2025/09/16 | CloseDate: 2025/09/19
+EntryPrice: 1.18709 | ExitPrice: 1.17409 | Quantity: 1538.73
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.19359 | TP: 1.17409
+
+
+
+Position Informations
+ID: 317 | Asset: EUR/USD | OpenDate: 2025/10/09 | CloseDate: 2025/11/04
+EntryPrice: 1.15652 | ExitPrice: 1.14978 | Quantity: 1483.77
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14978 | TP: 1.17
+
+
+
+Position Informations
+ID: 318 | Asset: EUR/USD | OpenDate: 2025/10/31 | CloseDate: 2025/11/04
+EntryPrice: 1.1537 | ExitPrice: 1.14912 | Quantity: 2185.37
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.14912 | TP: 1.16285
+
+
+
+Position Informations
+ID: 319 | Asset: EUR/USD | OpenDate: 2025/11/04 | CloseDate: 2025/11/13
+EntryPrice: 1.1485 | ExitPrice: 1.16131 | Quantity: 1561.32
+pnlRealized: 20 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.1421 | TP: 1.16131
+
+
+
+Position Informations
+ID: 320 | Asset: EUR/USD | OpenDate: 2025/12/03 | CloseDate: 2025/12/11
+EntryPrice: 1.16661 | ExitPrice: 1.17189 | Quantity: 1893.06
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17189 | TP: 1.15605
+
+
+
+Position Informations
+ID: 321 | Asset: EUR/USD | OpenDate: 2025/12/10 | CloseDate: 2025/12/11
+EntryPrice: 1.17013 | ExitPrice: 1.17507 | Quantity: 2024.68
+pnlRealized: -10 | pnlUnrealized: 0 | Status: CLOSED
+SL: 1.17507 | TP: 1.16025
+
+
